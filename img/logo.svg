@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg fill="white" id="_Слой_1" data-name="Слой 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 55.78 63.81">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 40.48px;
+      }
+
+      .cls-1, .cls-2 {
+        font-family: Bauhaus93, 'Bauhaus 93';
+      }
+
+      .cls-2 {
+        font-size: 49.23px;
+      }
+    </style>
+  </defs>
+  <text class="cls-1" transform="translate(15.37 53.69)"><tspan x="0" y="0">H</tspan></text>
+  <text class="cls-2" transform="translate(17.17 4.16) rotate(109.77)"><tspan x="0" y="0">L</tspan></text>
+</svg>
